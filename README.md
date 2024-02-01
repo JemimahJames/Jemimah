@@ -1,10 +1,10 @@
 # Jemimah/Read-Me
 
-##Hello
+## Hello
 
-##My name is Jemimah James
+## My name is Jemimah James
 
-##I am a Computer Scincetist vast in Data Analytics
+## I am a Computer Scincetist vast in Data Analytics
 
 I have passion for cleaning, verifying, analyzing and modelling data for informed business decisions. 
 
