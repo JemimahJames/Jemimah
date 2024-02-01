@@ -29,13 +29,12 @@ Microsoft Excel
 
 
 Future Learning Paths:
-SQL (Structured Query Language)
-SPSS
-PowerBI
-Tableau
-Python
-R
-Power Apps
-Power Automate
-Power Virtual Agents
-Looker
+SQL (Structured Query Language),
+SPSS, PowerBI,
+Tableau,
+Python,
+R,
+Power Apps,
+Power Automate,
+Power Virtual Agents,
+Looker,
