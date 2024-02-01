@@ -18,17 +18,17 @@ Excel is my favourite analytical tool for now though i hope to learn other tools
 
 Reach me through; [LinkedIn](https://www.linkedin.com/in/jemimah-james-73b204191)
 
-Pronouns: She
+**Pronouns:** She
 
-Hobby: Singing 
+**Hobby**: Singing 
 
 
 
-My Arsenal:
+**My Arsenal:**
 Microsoft Excel
 
 
-Future Learning Paths:
+**Future Learning Paths:**
 SQL (Structured Query Language),
 SPSS, PowerBI,
 Tableau,
