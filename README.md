@@ -16,7 +16,7 @@ I’m open for Entry Level Data Analyst Role as I am currently in search of a Da
 
 Excel is my favourite analytical tool for now though i hope to learn other tools
 
-Reach me through; [LinkedIn](https://www.linkedin.com/in/jemimah-james-73b204191)
+**Reach me through:** [LinkedIn](https://www.linkedin.com/in/jemimah-james-73b204191)
 
 **Pronouns:** She
 
