@@ -14,8 +14,6 @@ I look forward to colaborating with companies and business organizations to solv
 
 I’m open for Entry Level Data Analyst Role as I am currently in search of a Data Analyst role.
 
-Excel is my favourite analytical tool for now though i hope to learn other tools
-
 **Reach me through:** [LinkedIn](https://www.linkedin.com/in/jemimah-james-73b204191)
 
 **Pronouns:** She
@@ -25,14 +23,13 @@ Excel is my favourite analytical tool for now though i hope to learn other tools
 
 
 **My Arsenal:**
-Microsoft Excel
+PowerBI, SQL, Excel
+Python, Tableau
+
 
 
 **Future Learning Paths:**
-SQL (Structured Query Language),
-SPSS, PowerBI,
-Tableau,
-Python,
+SPSS,
 R,
 Power Apps,
 Power Automate,
